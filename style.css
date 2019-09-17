@@ -1,0 +1,12 @@
+ .nav-link{
+     color : white;
+ }
+
+ .fixed-bottom{
+     position: fixed;
+     bottom:0px
+ }
+
+ .carousel-inner{
+     padding-bottom: 10px
+ }
